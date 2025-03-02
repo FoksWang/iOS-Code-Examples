@@ -4,10 +4,10 @@ This repository contains various iOS development examples, including Swift, Swif
 
 ## 📂 Demo List
 
-### 🎬 [ContentTransitionDemo](https://github.com/FoksWang/iOS-Code-Examples/tree/main/ContentTransitionDemo/ContentTransitionDemo)
+### [ContentTransitionDemo](https://github.com/FoksWang/iOS-Code-Examples/tree/main/ContentTransitionDemo/ContentTransitionDemo)
 A SwiftUI demo showcasing `contentTransition()` for smooth Play/Pause button transitions.
 
-📺 **Demo Video:**  
+**Demo Video:**  
 [![Watch Video](https://github.com/FoksWang/iOS-Code-Examples/blob/main/ContentTransitionDemo/ContentTransitionDemo/ContentTransitionDemo.mp4)](https://github.com/FoksWang/iOS-Code-Examples/blob/main/ContentTransitionDemo/ContentTransitionDemo/ContentTransitionDemo.mp4)
 
 ---
