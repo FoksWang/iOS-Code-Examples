@@ -4,6 +4,16 @@ This repository contains various iOS development examples, including Swift, Swif
 
 ## 📂 Demo List
 
+### [JellyLikePodcastLikeButton](https://github.com/FoksWang/iOS-Code-Examples/tree/main/JellyLikePodcastLikeButton/JellyLikePodcastLikeButton)  
+A SwiftUI like button with a jelly-like animation and haptic feedback.
+
+#### **Demo Preview**  
+<p align="center">
+    <img src="https://github.com/FoksWang/iOS-Code-Examples/blob/main/JellyLikePodcastLikeButton/JellyLikePodcastLikeButton/JellyLikePodcastButton.gif" width="1000">
+</p>
+
+---
+
 ### [MLX Swift Chat](https://github.com/FoksWang/iOS-Code-Examples/tree/main/MLXSwiftChat/MLXSwiftChat)  
 This SwiftUI demo showcases how to integrate **MLXLLM** for on-device **AI text generation**. The app allows users to input a prompt and receive AI-generated responses **directly on their iPhone**, leveraging Apple’s MLX framework.  
 
