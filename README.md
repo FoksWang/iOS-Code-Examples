@@ -4,6 +4,16 @@ This repository contains various iOS development examples, including Swift, Swif
 
 ## 📂 Demo List
 
+### [InfiniteCarousel](https://github.com/FoksWang/iOS-Code-Examples/tree/main/InfiniteCarouselDemo/InfiniteCarouselDemo)  
+A SwiftUI infinite scrolling carousel with smooth animations and auto-scrolling support.
+
+#### **Demo Preview**  
+<p align="center">
+    <img src="https://github.com/FoksWang/iOS-Code-Examples/blob/main/InfiniteCarouselDemo/InfiniteCarouselDemo/InfiniteCarouselDemo.gif" width="1000">
+</p>
+
+---
+
 ### [JellyLikePodcastLikeButton](https://github.com/FoksWang/iOS-Code-Examples/tree/main/JellyLikePodcastLikeButton/JellyLikePodcastLikeButton)  
 A SwiftUI like button with a jelly-like animation and haptic feedback.
 
