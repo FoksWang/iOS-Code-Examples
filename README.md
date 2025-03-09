@@ -4,6 +4,16 @@ This repository contains various iOS development examples, including Swift, Swif
 
 ## 📂 Demo List
 
+### [WatchPod](https://github.com/FoksWang/iOS-Code-Examples/tree/main/WatchPod/WatchPod)  
+A simple and lightweight podcast player designed for Apple Watch, built with SwiftUI. This demo helps developers understand how to create a watchOS app with audio playback, SwiftUI interfaces, and AVFoundation integration. 🚀🎧
+
+#### **Demo Preview**  
+<p align="center">
+    <img src="https://github.com/FoksWang/iOS-Code-Examples/blob/main/WatchPod/WatchPod/WatchPod.gif" width="1000">
+</p>
+
+---
+
 ### [GaussOptimization](https://github.com/FoksWang/iOS-Code-Examples/tree/main/GaussOptimization/GaussOptimization)  
 A SwiftUI performance optimization example using Gauss's formula to calculate cumulative values with O(1) complexity.
 
